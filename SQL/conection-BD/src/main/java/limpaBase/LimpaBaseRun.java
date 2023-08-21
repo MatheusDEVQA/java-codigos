@@ -1,4 +1,4 @@
-package LimpaBase;
+package limpaBase;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
